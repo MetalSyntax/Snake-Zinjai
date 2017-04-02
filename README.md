@@ -1,2 +1,2 @@
 # Snake-Zinjai
-Snake C++ un Sencillo Juego de C++ en Consola a manera de Practica
+Snake C++ un Sencillo Juego escrito en C++ en Consola a manera de Practica
