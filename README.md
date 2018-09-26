@@ -1,12 +1,10 @@
 # Snake-Zinjai
 
-Snake Zinjai un Sencillo Juego escrito en C++ visualizado mendiante una Consola emergente. Se desarrollo para practicar el lenguaje.
+Esta aplicacion es un software de codigo abierto basado en un Sencillo Juego escrito en C++ visualizado mendiante una Consola emergente. 
 
-Este proyecto de Codigo Abierto. Por lo que todo el codigo esta al a disposicion de la comunidad. Especialmente recomendado para estudiantes que esten iniciando y quieran aprender mas sobre el lenguaje
+**Proposito** Se desarrollo para practicar el lenguaje.
 
-## Donate
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/MetalSyntax)
+**Recomendacion** Especialmente recomendado para estudiantes que esten iniciando y quieran aprender mas sobre el lenguaje
 
 ## Nota Importante 
 
@@ -15,3 +13,7 @@ Reportar cualquier error o mejora que se le pueda realizar al codigo
 ## Registro de Version
 
 Es una version unica. 1.0.0
+
+## Donacion
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](paypal.me/MetalSyntax)
